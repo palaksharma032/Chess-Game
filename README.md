@@ -5,7 +5,7 @@ A fully playable, browser-based chess game built with **pure HTML, CSS, and Java
 
 ## 🎮 Live Demo
 
-👉 **[Play it here](https://palaksharma032.github.io/Chess-Game**
+👉 **[Play it here](https://palaksharma032.github.io/Chess-Game)**
 
 ---
 
