@@ -40,7 +40,7 @@ git clone https://github.com/palaksharma032/Chess-Game.git
 open index.html
 ```
 
-Or simply [download the ZIP](https://github.com/your-username/chess-game/archive/refs/heads/main.zip) and open `index.html`.
+Or simply [download the ZIP](https://github.com/palaksharma032/chess-game/archive/refs/heads/main.zip) and open `index.html`.
 
 ---
 
