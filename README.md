@@ -2,21 +2,16 @@
 
 A fully playable, browser-based chess game built with **pure HTML, CSS, and JavaScript** — no frameworks, no libraries, no installation required.
 
-![Chess Game](https://img.shields.io/badge/HTML-CSS-JS-vanilla-blue?style=flat-square)
-![Status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
-
----
 
 ## 🎮 Live Demo
 
-👉 **[Play it here](https://your-username.github.io/chess-game)**
+👉 **[Play it here](https://palaksharma032.github.io/Chess-Game)**
 
 ---
 
 ## 📸 Preview
 
-> A clean, responsive chess board with highlighted legal moves, check warnings, and a smooth UI.
+<img width="1243" height="681" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/b7f9d9db-7618-4d19-90b5-94de86fbbe48" />
 
 ---
 
@@ -39,7 +34,7 @@ No setup needed. Just open the file in your browser:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/chess-game.git
+git clone https://github.com/palaksharma032/Chess-Game.git
 
 # Open in browser
 open index.html
