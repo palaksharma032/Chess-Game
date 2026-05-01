@@ -1,34 +1,34 @@
-# ♟ Chess Game
+# Chess Game
 
 A fully playable, browser-based chess game built with **pure HTML, CSS, and JavaScript** — no frameworks, no libraries, no installation required.
 
 
-## 🎮 Live Demo
+## Live Demo
 
-👉 **[Play it here](https://palaksharma032.github.io/Chess-Game)**
+ **[Play it here](https://palaksharma032.github.io/Chess-Game)**
 
 ---
 
-## 📸 Preview
+## Preview
 
 <img width="1243" height="681" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/b7f9d9db-7618-4d19-90b5-94de86fbbe48" />
 
 ---
 
-## ✨ Features
+## Features
 
-- ♟ Full movement rules for all pieces — Pawns, Knights, Bishops, Rooks, Queens, and Kings
-- 🔴 **Check detection** — King square turns red with a shake animation
-- 🏁 **Checkmate & Stalemate detection** — Game ends automatically with a result message
-- ♛ **Pawn auto-promotion** — Pawns reaching the back rank are promoted to a Queen
-- 🟢 **Legal move highlighting** — Valid squares are shown when a piece is selected
-- 🚫 **Illegal move prevention** — No move that leaves your King in check is allowed
-- 🔄 **New Game button** — Appears after the game ends to restart instantly
-- 📱 **Responsive design** — Works on desktop and mobile
+-  Full movement rules for all pieces — Pawns, Knights, Bishops, Rooks, Queens, and Kings
+-  **Check detection** — King square turns red with a shake animation
+-  **Checkmate & Stalemate detection** — Game ends automatically with a result message
+-  **Pawn auto-promotion** — Pawns reaching the back rank are promoted to a Queen
+-  **Legal move highlighting** — Valid squares are shown when a piece is selected
+-  **Illegal move prevention** — No move that leaves your King in check is allowed
+-  **New Game button** — Appears after the game ends to restart instantly
+-  **Responsive design** — Works on desktop and mobile
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 No setup needed. Just open the file in your browser:
 
@@ -44,7 +44,7 @@ Or simply [download the ZIP](https://github.com/palaksharma032/chess-game/archiv
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 chess-game/
@@ -55,7 +55,7 @@ chess-game/
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - **HTML5** — Semantic structure
 - **CSS3** — Grid layout, animations, responsive design
@@ -63,7 +63,7 @@ chess-game/
 
 ---
 
-## 📌 Roadmap
+## Roadmap
 
 - [ ] Castling
 - [ ] En passant
@@ -73,7 +73,7 @@ chess-game/
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
